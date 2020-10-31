@@ -1,2 +1,2 @@
 # Sonoma-County-Wildfire
-Sonoma County Wildfire Risk Analysis using Weather and Fire Data
+Performed logistic regression machine learning method on Sonoma County's Weather and Fire Data to analyze wildfire risk. 
